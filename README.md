@@ -3,26 +3,19 @@
 📚 Repositório com implementações desenvolvidas durante a disciplina de **Algoritmos Bioinspirados**, oferecida pelo Centro de Informática da UFPE no período 2025.1.
 
 Inclui atividades desenvolvidas individualmente e em grupo.
+---
+
+Repository with implementations developed during the **Bioinspired Algorithms** course, offered by CIn UFPE in the first semester of 2025.
+
+It includes assignments completed individually and collectively.
 
 ## 🚀 Projetos incluídos
 
 - Problema das N-Rainhas (N-Queens)
 - Problema de encontrar números primos (Finding primes)
 
----
 
-📚 Repository with implementations developed during the **Bioinspired Algorithms** course, offered by CIn UFPE in the first semester of 2025.
-
-It includes assignments completed individually and collectively.
-
-## 🚀 Included Projects
-
-- N-Queens Problem
-- Finding Primes Problem
-
----
-
-## 💻 Tecnologias / Technologies
+## 💻 Tools
 
 - Python 3.x
 - Bibliotecas: `numpy`, `matplotlib`, `random`
