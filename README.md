@@ -13,12 +13,14 @@ It includes assignments completed individually and collectively.
 
 - Problema das N-Rainhas (N-Queens)
 - Problema de encontrar números primos (Finding primes)
+- Otimização da Função Ackley (Ackley Function Optimization)
+- Vehicle Routing Problem com GA, ES, PSO, ACO e DA
 
 
 ## 💻 Tools
 
 - Python 3.x
-- Bibliotecas: `numpy`, `matplotlib`, `random`
+- Bibliotecas: `numpy`, `matplotlib`, `random`, `pandas`, `itertools`
 
 ---
 
